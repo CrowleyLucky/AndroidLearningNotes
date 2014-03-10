@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">12_AccessNetworkImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Please input image url:</string>
+	<string name="submit_query">click to query image</string>
+	<string name="input_default">http://www.baidu.com/img/bdlogo.gif</string>
+	<string name="net_image">net_image</string>
+</resources>

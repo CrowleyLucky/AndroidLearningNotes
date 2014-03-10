@@ -1,0 +1,28 @@
+package com.lmh.android.mobilenumberquery;
+
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class MobileService {
+
+	/**
+	 * query telephone numbers' belonging to
+	 * @param tel the target telephone number
+	 * @return the belonging-to of the target telephone number 
+	 * @throws Exception 
+	 * @throws MalformedURLException 
+	 */
+	public String getMobileBelongingTo(String tel) throws MalformedURLException, Exception {
+		String urlPath = "http://webservice.webxml.com.cn/WebServices/MobileCodeWS.asmx";
+		HttpURLConnection conn = (HttpURLConnection) new URL(urlPath).openConnection();
+		conn.setRequestMethod("POST");
+		conn.setReadTimeout(3000);
+		conn.setDoOutput(true);
+		conn.setRequestProperty("Content-Type", "application/soap+xml; charset=utf-8");
+		
+		return null;
+	}
+	
+}

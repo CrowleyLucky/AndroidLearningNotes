@@ -1,0 +1,19 @@
+package com.lmh.android.mobilenumberquery;
+
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+public class MobileService {
+
+	/**
+	 * query telephone numbers' belonging to
+	 * @param tel the target telephone number
+	 * @return the belonging-to of the target telephone number 
+	 */
+	public String getMobileBelongingTo(String tel) {
+		String urlPath = "http://webservice.webxml.com.cn/WebServices/MobileCodeWS.asmx";
+		HttpURLConnection connection = (HttpURLConnection) new URL(urlPath).openConnection();
+		return null;
+	}
+	
+}

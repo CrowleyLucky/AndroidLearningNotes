@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lmh.android.sqlite.UserAdapter.ViewCache&apos; to &apos;ViewHolder&apos;&#x0D;&#x0A;- Original project: &apos;SQLite&apos;&#x0D;&#x0A;- Original element: &apos;com.lmh.android.sqlite.UserAdapter.ViewCache&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lmh.android.sqlite.UserAdapter.ViewHolder&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ViewCache&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lmh.android.sqlite{UserAdapter.java[UserAdapter[ViewCache" matchStrategy="1" name="ViewHolder" qualified="false" references="true" similarDeclarations="false" stamp="1389501285007" textual="false" version="1.0"/>
+</session>

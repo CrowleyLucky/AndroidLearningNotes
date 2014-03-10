@@ -1,0 +1,10 @@
+package com.lmh.android.mobilenumberquery;
+
+public class MobileService {
+
+	public String getMobileBelongTo(String tel) {
+		
+		return null;
+	}
+	
+}

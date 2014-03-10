@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">action_settings</string>
+    <string name="app_name">RWFileAtRom</string>
+    <string name="file_name">请输入文件名：</string>
+    <string name="file_content">请输入文件内容：</string>
+    <string name="save">保存</string>
+</resources>

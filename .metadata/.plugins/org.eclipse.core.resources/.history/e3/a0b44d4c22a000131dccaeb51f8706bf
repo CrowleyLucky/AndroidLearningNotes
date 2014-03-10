@@ -1,0 +1,11 @@
+package com.lmh.android.mobilenumberquery;
+
+import android.test.AndroidTestCase;
+
+public class WebServiceTest extends AndroidTestCase{
+
+		public void testUploadXml() {
+			
+		}
+	
+}

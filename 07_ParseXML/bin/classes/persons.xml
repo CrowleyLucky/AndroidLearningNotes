@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Persons>
+    <person id="1">
+        <name>smc</name>
+        <gender>男</gender>
+        <age>22</age>
+    </person>
+    <person id="1">
+        <name>Kevin</name>
+        <gender>male</gender>
+        <age>22</age>
+    </person>
+    <person id="1">
+        <name>Lexi</name>
+        <gender>女</gender>
+        <age>21</age>
+    </person>
+    <person id="1">
+        <name>Rebecca</name>
+        <gender>female</gender>
+        <age>20</age>
+    </person>
+</Persons>

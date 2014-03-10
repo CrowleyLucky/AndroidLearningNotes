@@ -1,0 +1,15 @@
+package com.lmh.android.mobilenumberquery;
+
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+import android.test.AndroidTestCase;
+
+public class WebServiceTest extends AndroidTestCase{
+
+		public void testUploadXml() {
+			String urlPath = "";
+			HttpURLConnection connection = (HttpURLConnection) new URL(urlPath).openConnection();
+		}
+	
+}

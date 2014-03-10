@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ImageService.java&apos; to &apos;15_MobileNumberQuery/src/com.lmh.android.mobilenumberquery&apos;&#x0D;&#x0A;- Original project: &apos;12_AccessNetworkImage&apos;&#x0D;&#x0A;- Destination element: &apos;15_MobileNumberQuery/src/com.lmh.android.mobilenumberquery&apos;&#x0D;&#x0A;- Original element: &apos;com.lmh.android.accessnetworkimage.ImageService.java&apos;" description="Copy compilation unit" destination="=15_MobileNumberQuery/src&lt;com.lmh.android.mobilenumberquery" element1="/src&lt;com.lmh.android.accessnetworkimage{ImageService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1393556613506" units="1" version="1.0"/>
+</session>

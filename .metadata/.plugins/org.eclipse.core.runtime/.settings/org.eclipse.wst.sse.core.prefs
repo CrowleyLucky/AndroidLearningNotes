@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+task-tag-projects-already-scanned=01_EnvironmentTest,02_PhoneDialTest,03_SMS,04_FrameLayout,05_JUnitTest,06_RWFileAtRom,07_ParseXML,08_SharedPreferences,09_SQLite,10_ContentProviderTest,11_AccessContacts,12_AccessNetworkImage,13_HtmlViewer,14_ConnectMethod,15_MobileNumberQuery,16_MultiThreadDownloader

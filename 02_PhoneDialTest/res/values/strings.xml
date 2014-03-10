@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">安卓拨号器</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">输入手机号码短按普通拨号，长按紧急拨号：</string>
+    <string name="dial_hint">请输入电话号码</string>
+    <string name="normal_call">普通电话</string>
+    <string name="tel_empty_hint">请填写电话号码</string>
+
+</resources>

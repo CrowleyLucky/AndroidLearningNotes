@@ -1,0 +1,15 @@
+package com.lmh.android.mobilenumberquery;
+
+public class MobileService {
+
+	/**
+	 * query telephone numbers' belonging to
+	 * @param tel the target telephone number
+	 * @return the belonging-to of the target telephone number 
+	 */
+	public String getMobileBelongingTo(String tel) {
+		
+		return null;
+	}
+	
+}

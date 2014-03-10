@@ -1,0 +1,112 @@
+{
+  "E:\\androidwork\\PhoneDialTest\\gen": {
+    "location": "E:\\androidwork\\PhoneDialTest\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\PhoneDialTest\\gen\u0027. Skipped."
+  },
+  "D:\\eclipse\\Android\\android-sdk-windows\\platforms\\android-8\\android.jar": {
+    "location": "D:\\eclipse\\Android\\android-sdk-windows\\platforms\\android-8\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027D:\\eclipse\\Android\\android-sdk-windows\\platforms\\android-8\\android.jar\u0027. Neither fingerprint \u00272567fcef5bb2ca93e22a9df4f2dbf895daeb3e33\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "E:\\androidwork\\PhoneDialTest\\src": {
+    "location": "E:\\androidwork\\PhoneDialTest\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\PhoneDialTest\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\SMS\\gen": {
+    "location": "E:\\androidwork\\SMS\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\SMS\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\JUnitTest\\src": {
+    "location": "E:\\androidwork\\JUnitTest\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\JUnitTest\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\RWFileAtRom\\src": {
+    "location": "E:\\androidwork\\RWFileAtRom\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\RWFileAtRom\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\RWFileAtRom\\gen": {
+    "location": "E:\\androidwork\\RWFileAtRom\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\RWFileAtRom\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\ParseXML\\src": {
+    "location": "E:\\androidwork\\ParseXML\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\ParseXML\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\SharedPreferences\\gen": {
+    "location": "E:\\androidwork\\SharedPreferences\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\SharedPreferences\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\SQLite\\src": {
+    "location": "E:\\androidwork\\SQLite\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\SQLite\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\SQLite\\gen": {
+    "location": "E:\\androidwork\\SQLite\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\SQLite\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\09_SQLite\\src": {
+    "location": "E:\\androidwork\\09_SQLite\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\09_SQLite\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\12_AccessNetworkImage\\gen": {
+    "location": "E:\\androidwork\\12_AccessNetworkImage\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\12_AccessNetworkImage\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\12_AccessNetworkImage\\src": {
+    "location": "E:\\androidwork\\12_AccessNetworkImage\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\12_AccessNetworkImage\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\13_HtmlViewer\\gen": {
+    "location": "E:\\androidwork\\13_HtmlViewer\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\13_HtmlViewer\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\13_HtmlViewer\\src": {
+    "location": "E:\\androidwork\\13_HtmlViewer\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\13_HtmlViewer\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\14_ConnectMethod\\gen": {
+    "location": "E:\\androidwork\\14_ConnectMethod\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\14_ConnectMethod\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\14_ConnectMethod\\src": {
+    "location": "E:\\androidwork\\14_ConnectMethod\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\14_ConnectMethod\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\15_MobileNumberQuery\\src": {
+    "location": "E:\\androidwork\\15_MobileNumberQuery\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\15_MobileNumberQuery\\src\u0027. Skipped."
+  },
+  "E:\\androidwork\\15_MobileNumberQuery\\gen": {
+    "location": "E:\\androidwork\\15_MobileNumberQuery\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\15_MobileNumberQuery\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\MultiThreadDownloader\\gen": {
+    "location": "E:\\androidwork\\MultiThreadDownloader\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\MultiThreadDownloader\\gen\u0027. Skipped."
+  },
+  "E:\\androidwork\\MultiThreadDownloader\\src": {
+    "location": "E:\\androidwork\\MultiThreadDownloader\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\androidwork\\MultiThreadDownloader\\src\u0027. Skipped."
+  }
+}
