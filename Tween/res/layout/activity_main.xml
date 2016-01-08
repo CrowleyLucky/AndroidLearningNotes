@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ImageView 
+        android:id="@+id/hfy"
+        android:src="@drawable/hfy"
+        android:contentDescription="@string/HFY"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+    <LinearLayout 
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button 
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="rotate" 
+            android:text="@string/rotate"/>
+        <Button 
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="alpha" 
+            android:text="@string/alpha"/>
+        <Button 
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="translate" 
+            android:text="@string/translate"/>
+        <Button 
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="scale" 
+            android:text="@string/scale"/>
+    </LinearLayout>
+    
+</LinearLayout>

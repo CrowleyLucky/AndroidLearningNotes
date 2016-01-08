@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LaunchMode-Crowley</string>
+    <string name="standard">Standard Activity</string>
+	<string name="standard_text">StandardMode</string>    
+	<string name="singleTop_text">SingleTopMode</string>    
+	<string name="singleTask_text">SingleTaskMode</string>    
+	<string name="singleInstance_text">SingleInstanceMode</string>        
+
+
+    <string name="action_settings">Settings</string>
+
+</resources>

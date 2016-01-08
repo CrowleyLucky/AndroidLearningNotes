@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.crowley.mp3player.MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title" 
+        android:layout_gravity="center"/>
+	<EditText 
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/mp3_file_name"
+        android:id="@+id/file_name"
+        android:text="@string/sample_song"/>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal">
+	    <Button 
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_marginLeft="30sp"
+    		android:text="@string/btn_play"
+    		android:onClick="playMP3"
+    		android:id="@+id/play"/>
+	    <Button 
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_marginLeft="30sp"
+    		android:text="@string/btn_replay"
+    		android:onClick="playMP3"
+    		android:id="@+id/replay"/>
+	    <Button 
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_marginLeft="30sp"
+    		android:onClick="playMP3"
+    		android:text="@string/btn_stop"
+    		android:id="@+id/stop"/>
+	    
+	</LinearLayout>
+	<TextView 
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:id="@+id/total_time"/>
+	<TextView 
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:id="@+id/is_loop"/>
+	<TextView 
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:id="@+id/time_remain"/>
+
+</LinearLayout>

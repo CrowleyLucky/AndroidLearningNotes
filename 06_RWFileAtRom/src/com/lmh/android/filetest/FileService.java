@@ -8,6 +8,7 @@ import java.io.IOException;
 
 import android.content.Context;
 import android.os.Environment;
+import android.util.Log;
 
 public class FileService {
 	private Context context = null;
@@ -37,7 +38,13 @@ public class FileService {
 	}
 	
 	public void saveToSDCard(String fileName, String content) throws IOException {
-		File file = new File(Environment.getExternalStorageDirectory(), fileName);
+		File file = new File(Environment.getExternalStorageDirectory() + "/crowley-test", fileName);
+		//如果路径不存在，则创建目录！！
+		File f = new File(Environment.getExternalStorageDirectory() + "/crowley-test");
+		if(!f.exists()) f.mkdir();
+		
+		
+		//Log.d("Crowley", "" + Environment.getExternalStorageDirectory() + "/documents");
 		FileOutputStream out = new FileOutputStream(file);
 		out.write(content.getBytes("utf8"));
 		out.flush();

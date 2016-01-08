@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenAdapter</string>
+    <string name="defaultString">default string</string>
+    <string name="s854x480">854x480</string>
+    <string name="s800x480">800x480</string>
+    <string name="s480x320">480x320</string>
+</resources>

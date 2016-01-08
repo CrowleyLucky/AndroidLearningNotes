@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">手机归属地查询</string>
-    <string name="prompt">输入手机号码：</string>
-    <string name="empty_tel">请填写电话号码！</string>
-
-</resources>

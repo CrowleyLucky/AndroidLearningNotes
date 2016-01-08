@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">25_MP3Player</string>
+    <string name="title">Android MP3 Player</string>
+    <string name="mp3_file_name">input mp3 file name</string>
+ 	<string name="btn_play">play</string>
+ 	<string name="btn_pause">pause</string>
+ 	<string name="btn_replay">replay</string>
+ 	<string name="btn_stop">stop</string>
+ 	<string name="sample_song">Avril Lavigne-Complicated.mp3</string>
+</resources>

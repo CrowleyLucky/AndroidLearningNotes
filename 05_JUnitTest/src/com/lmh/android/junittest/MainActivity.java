@@ -1,11 +1,10 @@
 package com.lmh.android.junittest;
 
+import android.app.Activity;
+import android.database.ContentObserver;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
-import android.app.Activity;
-import android.database.ContentObserver;
-import android.view.Menu;
 
 public class MainActivity extends Activity {
 

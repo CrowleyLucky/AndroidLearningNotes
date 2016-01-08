@@ -60,7 +60,7 @@ public class MainActivity extends Activity {
 			Intent intent = new Intent();
 			intent.setAction("android.intent.action.CALL");
 			intent.addCategory("android.intent.category.DEFAULT");
-			intent.setData(Uri.parse("tel:" + telNum));
+			intent.setData(Uri.parse("tel://" + telNum));
 			startActivity(intent);
 			return true;
 		}

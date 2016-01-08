@@ -4,7 +4,7 @@ import android.test.AndroidTestCase;
 import android.util.Log;
 
 public class LogTest extends AndroidTestCase{
-	private static final String tag = "LogTest";
+	private static final String tag = "Crowley";
 	
 	public void testErrorLevel() {
 		Log.i(tag, "log.info");

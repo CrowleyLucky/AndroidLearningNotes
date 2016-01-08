@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dialer</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hint">请输入要拨打的电话号码：</string>
+    <string name="dial">点我拨号</string>
+
+</resources>

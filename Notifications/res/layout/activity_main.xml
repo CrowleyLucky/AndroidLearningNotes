@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.notifications.MainActivity" >
+
+     <TextView
+        style="@style/myStyle"
+        android:text="@string/ticker" />
+    <EditText 
+        style="@style/myStyle"
+        android:id="@+id/ticker" />
+    <TextView
+        style="@style/myStyle"
+        android:text="@string/title" />
+    <EditText 
+        style="@style/myStyle"
+        android:id="@+id/title" />
+    
+    <TextView
+        style="@style/myStyle"
+        android:text="@string/content" />
+    <EditText 
+        style="@style/myStyle"
+        android:id="@+id/content" />
+    
+    <TextView
+        style="@style/myStyle"
+        android:text="@string/dalay" />
+    <EditText 
+        style="@style/myStyle"
+        android:id="@+id/delay" 
+        android:inputType="number"/>
+    <Button
+        style="@style/myStyle"
+        android:onClick="send"
+        android:text="@string/send"
+        />"
+
+</LinearLayout>

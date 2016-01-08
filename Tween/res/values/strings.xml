@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tween</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="HFY">HFY</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="translate">Translate</string>
+    <string name="alpha">Alpha</string>
+
+</resources>

@@ -8,5 +8,6 @@
     <string name="username_hint">username</string>
     <string name="password_hint">password</string>
     <string name="phone_hint">phone</string>
+    <string name="crowley__test">Crowley</string> 
 
 </resources>

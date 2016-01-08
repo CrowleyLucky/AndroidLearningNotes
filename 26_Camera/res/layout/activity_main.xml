@@ -1,0 +1,51 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.crowley.camera.MainActivity" >
+    
+    <SurfaceView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/surface_view"
+        />
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/buttons_view">
+        
+        <Button 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/auto_focus"
+        android:text="@string/focus"
+        android:layout_marginRight="5dp"
+        android:onClick="takePhotos"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        />
+        
+        <Button 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/shot"
+        android:text="@string/shot"
+        android:onClick="takePhotos"
+        android:layout_toLeftOf="@id/auto_focus"
+        android:layout_alignTop="@id/auto_focus"
+        android:layout_marginRight="5dp"
+        />
+        
+    </RelativeLayout>
+    
+<TextView 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="#ffffff"
+        android:text="DDDDDDDDDDDDDDDDDDDDDDDDDDDD"/>
+    
+    
+</FrameLayout>

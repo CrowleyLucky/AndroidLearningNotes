@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">22_QueryNameByBindService</string>
+    <string name="hello_world">我是一个bindService()方式注册的的Service~\n喵呜~~~</string>
+    <string name="action_settings">Settings</string>
+    <string name="clickHint">点我开始查询</string>
+
+</resources>

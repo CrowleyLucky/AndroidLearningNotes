@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.crowley.launchmode.MainActivity" >
+
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit3"
+        />
+    <EditText
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/standard" />
+    <Button 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:id="@+id/standard3"
+        android:text="@string/standard_text"
+        android:onClick="startStandard"
+        />
+    <Button 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:id="@+id/singleTop3"
+        android:text="@string/singleTop_text"
+        android:onClick="startSingleTop"
+        />
+    <Button 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:id="@+id/singleTask3"
+        android:text="@string/singleTask_text"
+        android:onClick="startSingleTask"
+        />
+    <Button 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:id="@+id/singleInstance3"
+        android:text="@string/singleInstance_text"
+        android:onClick="startSingleInstance"
+        />
+
+</LinearLayout>

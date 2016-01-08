@@ -9,7 +9,7 @@ public class ReadFileFromRomTest extends AndroidTestCase {
 	
 	public void testReadFileFromRom() throws IOException {
 		FileService service = new FileService(this.getContext());
-		Log.d("TAG", service.readFromRom("lmh.txt"));
+		Log.d("TAG", service.readFromRom("gg.txt"));
 	}
 	
 	public void testReadFileFromSDCard() {

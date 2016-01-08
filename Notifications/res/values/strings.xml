@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notifications</string>
+    <string name="title">通知标题</string>
+    <string name="ticker">概要</string>
+    <string name="content">通知内容</string>
+    <string name="dalay">延迟时间</string>
+    <string name="send">发送通知</string>
+
+</resources>

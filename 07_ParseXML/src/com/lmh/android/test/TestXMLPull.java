@@ -23,6 +23,7 @@ public class TestXMLPull extends AndroidTestCase{
 		persons.add(new Person(1,"Kevin","male",22));
 		persons.add(new Person(1,"Lexi","Ů",21));
 		persons.add(new Person(1,"Rebecca","female",20));
+		persons.add(new Person(2, "Crowley", "male", 23));
 		FileOutputStream out = this.getContext().openFileOutput("persons.xml", Context.MODE_PRIVATE);
 		service.writePersonsToFile(persons, out);
 	}

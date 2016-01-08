@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="crowley.crowley.gusture.MainActivity" >
+
+	<android.gesture.GestureOverlayView 
+	    android:id="@+id/gesture"
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:layout_weight="1"
+		android:gestureStrokeType="multiple"
+		android:gestureStrokeWidth="10"
+		android:gestureColor="#ff0000"
+	    ></android.gesture.GestureOverlayView>    
+
+	<Button 
+	    android:layout_width="match_parent"
+	    android:layout_height="50dp"
+	    android:layout_weight="0"
+	    android:onClick="find"
+	    android:text="Find"
+	/>
+</LinearLayout>

@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical"
+    tools:context="com.crowley.asynctaskandhandler.MainActivity" >
+
+    <TextView
+        style="@style/myStyle"
+        android:text="@string/async_task" />
+    <ProgressBar 
+        android:id="@+id/asyncTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        />
+    <TextView
+        style="@style/myStyle"
+        android:id="@+id/progressAsync" />
+    <Button
+        style="@style/myStyle"
+        android:onClick="startAsyncTask"
+        android:text="@string/btn_async_task"
+        />
+    
+     <TextView
+         android:layout_marginTop="88dp"
+        style="@style/myStyle"
+        android:text="@string/handler" />
+    <ProgressBar 
+        android:id="@+id/handler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        />
+    <TextView
+        style="@style/myStyle"
+        android:id="@+id/progressHandler" />
+    <Button
+        style="@style/myStyle"
+        android:onClick="startHandler"
+        android:text="@string/btn_handler"
+        />
+
+</LinearLayout>

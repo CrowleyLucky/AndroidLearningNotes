@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;PersonalService.java&apos; to &apos;JUnitTest/src/com.lmh.android.junittest&apos;&#x0D;&#x0A;- Original project: &apos;JUnitTest&apos;&#x0D;&#x0A;- Destination element: &apos;JUnitTest/src/com.lmh.android.junittest&apos;&#x0D;&#x0A;- Original element: &apos;com.lmh.android.test.PersonalService.java&apos;" description="Copy compilation unit" destination="/src&lt;com.lmh.android.junittest" element1="/src&lt;com.lmh.android.test{PersonalService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1388301723715" units="1" version="1.0"/>
-</session>

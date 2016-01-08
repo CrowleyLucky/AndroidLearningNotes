@@ -11,7 +11,7 @@ public class PreferenceService {
 	private SharedPreferences preference;
 	
 	public PreferenceService(Context context) {
-		preference = context.getSharedPreferences("user-preferences", Context.MODE_PRIVATE);
+		preference = context.getSharedPreferences("user-preferences-Crowley", Context.MODE_PRIVATE);
 	}
 	
 	public void save(String username, int age) {
